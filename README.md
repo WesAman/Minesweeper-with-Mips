@@ -1,6 +1,6 @@
 # Minesweeper-with-Mips
 Minesweeper game built with MIPS assembly language
-Minesweeper by Wessal Aman, Jaden Keller, and Anh Le
+Minesweeper by Wes Aman, Jaden-Keller, and Anh-Le
 
 after assembling and running program you will be prompted to choose a difficulty.
 Enter the character 1 for easy,
